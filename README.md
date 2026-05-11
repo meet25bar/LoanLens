@@ -4,7 +4,6 @@ AI-Powered Loan Repayment & Credit Risk Prediction System
 LoanLens is a deep learning-based credit risk analysis system that predicts whether a borrower is likely to repay a loan based on financial and behavioral attributes. The project uses extensive data preprocessing, feature engineering, and a neural network built with TensorFlow/Keras to perform binary classification on loan repayment data.
 
 🚀 Features
-
 Loan repayment prediction using Deep Learning
 Data preprocessing & feature engineering
 Missing value handling
@@ -14,7 +13,6 @@ Model evaluation using Classification Report & Confusion Matrix
 Binary classification using TensorFlow/Keras
 
 🛠️ Tech Stack
-
 Python
 Pandas
 NumPy
