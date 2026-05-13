@@ -68,15 +68,15 @@ Optimizer
 Adam Optimizer
 
 📈 Workflow
-Data Cleaning
-Handling Missing Values
-Feature Engineering
-One-Hot Encoding
-Train-Test Split
-Feature Scaling
-Neural Network Training
-Model Evaluation
-Loan Repayment Prediction
+-Data Cleaning
+-Handling Missing Values
+-Feature Engineering
+-One-Hot Encoding
+-Train-Test Split
+-Feature Scaling
+-Neural Network Training
+-Model Evaluation
+-Loan Repayment Prediction
 
 📉 Model Evaluation
 
